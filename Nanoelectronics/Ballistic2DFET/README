@@ -1,0 +1,8 @@
+Scripts for my Nanoelectronics 24-25 course lab practices. Simulating a 2D field effect transistor (FET)
+
+For references consult Introduction to Nanoelectronics, MIT Open Courseware by Marco Baldo. All theoretical framework for the course was taken from it. 
+
+The folder contains:
+
+1. 2 Python scripts to download and run, they produce the results. The nano.txt is needed for the BallisticFET_I-Vresults.py 
+2. A Jupyter notebook that contains the *same scripts*, *same results* including discussion of results and plots. This is the lab report I turned in translated to English 
